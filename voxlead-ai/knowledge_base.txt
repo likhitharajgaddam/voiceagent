@@ -1,0 +1,47 @@
+## Institute Overview — VoxLead Coaching Academy
+INSTITUTE NAME: VoxLead Career & Tech Academy
+SUPPORT EMAIL: admissions@voxleadacademy.in
+LANGUAGES SUPPORTED: English, Hindi, and Telugu
+ABOUT US: VoxLead Career & Tech Academy is an industry-focused IT coaching institute and training centre offering job-ready courses with live project mentorship, mock interviews, and dedicated placement assistance.
+
+## Python Full Stack Development Course (Flagship Program)
+COURSE: Python Full Stack Development
+DURATION: 6 Months (24 Weeks — Live + Hands-On Lab Sessions)
+FEES: INR 36,000 total (One-time payment INR 32,000, or 3-month no-cost EMI of INR 12,000/month)
+ELIGIBILITY: Any graduate (B.Tech, B.Sc, BCA, MCA, B.Com) or final-year student; no prior coding experience required (starts from Python basics).
+BATCH SCHEDULE: Morning Batch (8:00 AM – 10:00 AM IST), Evening Batch (6:30 PM – 8:30 PM IST), and Weekend Batch (Saturday & Sunday 10:00 AM – 2:00 PM IST).
+SYLLABUS:
+- Module 1 (Weeks 1–5): Core Python, Data Structures, OOP, File Handling & SQLite/PostgreSQL
+- Module 2 (Weeks 6–10): HTML5, CSS3, Tailwind, JavaScript ES6+ & React Fundamentals
+- Module 3 (Weeks 11–16): Django & FastAPI REST APIs, Authentication, ORM & Unit Testing
+- Module 4 (Weeks 17–20): Git, GitHub, Cloud Deployment Basics & Capstone Full Stack Project
+- Module 5 (Weeks 21–24): DSA Interview Prep, Resume Building & Mock Technical Interviews
+PLACEMENT SUPPORT: 100% placement assistance including resume workshops, 5 mock interviews, LinkedIn profile optimization, and referrals to 120+ hiring partner companies.
+
+## Data Science & Generative AI Course
+COURSE: Data Science & Generative AI
+DURATION: 5 Months (20 Weeks)
+FEES: INR 42,000 total (EMI option INR 14,000/month for 3 months)
+ELIGIBILITY: Graduates or working professionals comfortable with basic high-school mathematics.
+SYLLABUS: Python, NumPy, Pandas, Data Visualization, SQL, Machine Learning (Scikit-Learn), Deep Learning Basics, NLP, RAG & LLM App Development.
+PLACEMENT SUPPORT: Portfolio capstone projects, mock analytics interviews, and hiring partner drives.
+
+## Java Full Stack Development Course
+COURSE: Java Full Stack Development
+DURATION: 6 Months (24 Weeks)
+FEES: INR 38,000 total (One-time INR 34,000 or 3 EMIs of INR 12,667/month)
+ELIGIBILITY: Any technical or non-technical graduate seeking backend/enterprise software roles.
+SYLLABUS: Core Java, JDBC, Spring Boot, Microservices, React, SQL, Git & Interview Preparation.
+PLACEMENT SUPPORT: Dedicated mock interviews, resume review, and placement drives.
+
+## Counselling Appointments & Admission Policy
+- 1-on-1 free academic counselling sessions (30 minutes) are available Monday to Saturday.
+- Available counselling slots: 10:00 AM, 11:30 AM, 2:00 PM, 4:00 PM, and 5:30 PM.
+- Always check slot availability before confirming a counselling booking.
+- Ask for student's name, email, current qualification/experience, course interest, and preferred schedule before booking.
+
+## Strict Admission Accuracy & Opt-Out Policies
+- NEVER invent custom fee discounts, unadvertised scholarships, fake placement guarantees (100% job guarantee), or unpublished course durations.
+- Only quote placement ASSISTANCE (interview prep and partner referrals), never a guaranteed job contract.
+- If a student asks about a course or topic not listed in this knowledge base, clearly state that details are unavailable and offer to book a counselling call with an academic advisor.
+- If a student asks not to be contacted again, immediately mark them as opted out and end the call politely.

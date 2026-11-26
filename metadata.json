@@ -1,0 +1,6 @@
+{
+  "name": "VoxLead AI",
+  "description": "Autonomous AI Sales Voice Agent with live voice interaction, grounded knowledge base, lead qualification, demo booking, and SQLite dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

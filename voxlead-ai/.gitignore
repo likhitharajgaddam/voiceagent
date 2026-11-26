@@ -1,0 +1,23 @@
+# Secrets & Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python Virtual Environments & Cache
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Local SQLite Database & Temporary Audio
+*.db
+*.sqlite
+*.sqlite3
+*.wav
+*.mp3
+
+# macOS & VS Code System Files
+.DS_Store
+.vscode/

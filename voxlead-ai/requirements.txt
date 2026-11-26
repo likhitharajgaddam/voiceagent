@@ -1,0 +1,14 @@
+# Core Frontend & Environment
+streamlit>=1.40.0
+python-dotenv>=1.0.1
+
+# LLM & Speech-to-Text (Groq API + Groq Whisper)
+groq>=0.11.0
+
+# Text-to-Speech
+gTTS>=2.5.3
+
+# Embeddings RAG & Analytics
+sentence-transformers>=3.0.0
+numpy>=1.26.0
+pandas>=2.2.0
